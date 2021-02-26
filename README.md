@@ -1,10 +1,10 @@
 # Scraping tipos de cambio SBS Perú
 
-Tuve la necesidad de contar con los tipos de cambio diario para realizar la conversión de Dolara a Soles; entonces me puse a googlear si hay algún servicio web disponible para poder realizar este caso, pero no tuve éxito.
+Tuve la necesidad de contar con los tipos de cambio diario para realizar la conversión de Dólares a Soles; entonces me puse a googlear si hay algún servicio web disponible para poder realizar este caso, pero no tuve éxito.
 
 Me puse a indagar sobre scraping y sé que es un término que en realidad engloba cosas mucho más avanzadas, pero para mi caso me sirvió realizarlo con PHP.
 
-Sin más; pongo a si disposición mi humilde investigación y desarrollo para que les pueda ayudar en casos similares o como crean conveniente.
+Sin más; pongo a si disposición mi humilde investigación y desarrollo, espero que les pueda ayudar como a mí en casos similares o como crean conveniente.
 
 
 ## Implementación
